@@ -26,7 +26,7 @@ Welcome to **Travel Planner**, your ultimate companion for planning unforgettabl
 
 1️⃣ **Clone the Repository:**  
    ```sh
-   git clone https://github.com/Aruleeswarangithub/tourist-website.git
+   git clone https://github.com/Aruleeswarangithub/Codsoft_task2.git
    ```
 2️⃣ **Navigate to the Project Folder:**  
    ```sh
